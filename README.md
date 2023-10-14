@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Guilherme Cesar de Brito 👋
 
+##
+
 🎓 Educação
 Estou cursando Ciências da Computação na Universidade São Judas Tadeu, onde busco aprimorar meu conhecimento e explorar os fascinantes desafios que a computação apresenta.
 
