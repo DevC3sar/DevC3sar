@@ -29,12 +29,7 @@ Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade 
 <div> 
   <a href="https://www.instagram.com/git.cesar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/guilhermecbrito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-  ##
-
-  
+  <a href="https://www.linkedin.com/in/guilhermecbrito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
 <picture>
   <source
@@ -46,8 +41,5 @@ Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade 
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
    <img height="180em" src="https://camo.githubusercontent.com/1bec49ee74652722b0d4a6080df50d3e8d5d521754c54dfef4d5fdcb23a02ff4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d76696e696369757374616b656469266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d676f7468616d" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciustakedi&amp;layout=compact&amp;langs_count=7&amp;theme=gotham" style="max-width: 100%;">
-
   <img src="https://github-readme-stats.vercel.app/api?username=devc3sar&show_icons=true" />
-
- 
-</details>
+ </details>
