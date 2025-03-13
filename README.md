@@ -1,18 +1,28 @@
-### Olá! Eu sou o Guilherme Cesar de Brito 👋
-##
+### Olá! Eu sou o Guilherme  👋
 
-🎓 
-Estou cursando Ciências da Computação na Universidade São Judas Tadeu, onde busco aprimorar meu conhecimento e explorar os fascinantes desafios que a computação apresenta.
+Bem-vindo ao meu repositório profissional da IBM! Aqui, compartilho metodologias e estratégias para **vendas técnicas**, & Annuity Sales, **modernização do Mainframe com IBM Z e Watsonx**.
 
-🚀 Desenvolvedor Freelancer
-Como desenvolvedor freelancer, trabalho de forma independente para criar soluções web envolventes e eficientes. Estou sempre em busca de projetos interessantes que me desafiem a elevar minhas habilidades.
+## 🔥 O que você encontrará aqui?
+📌 **Materiais de Sales Strategy**
+- Templates de **pitch de vendas**, **business case**, **gestão de objeções** e **otimização de pipeline**.
+- Guias estratégicos de **Subscription Sales**, incluindo **churn mitigation** e **cross-sell**.
 
-🎮 Passatempo e Interesses
-Fora do mundo da programação, sou um apaixonado por video games, encontrando neles uma forma de descontração e inspiração. Além disso, tenho um amor pela aprendizagem contínua e estou constantemente buscando adquirir novos conhecimentos.
+📌 **Tecnologias IBM**
+- Automação e IA com **Watsonx Assistant for Z**.
+- Integração entre **Mainframe & Cloud**.
+- Scripts de **forecasting de receita e retenção de clientes**.
 
-📬 Contato
-Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato comigo por e-mail em guilhermebrito5151@gmail.com.
+📌 **Workshops e Apresentações**
+- Treinamentos sobre **storytelling para vendas**.
+- Estratégias de **engajamento com clientes**.
+- Demonstrações práticas sobre **IBM SaaS e Watson AI**.
 
+---
+
+📩 **Contato**
+Caso tenha interesse em parcerias ou discussões técnicas, me encontre no [LinkedIn](https://www.linkedin.com/in/seu-usuario).
+
+🚀 Vamos transformar vendas em impacto real!
 ##
 
 <div style="display: inline_block"><br>
